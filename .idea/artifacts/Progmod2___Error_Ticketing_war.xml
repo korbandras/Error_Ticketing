@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Progmod2 - Error Ticketing:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Progmod2 - Error Ticketing</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_Progmod2-Error_Ticketing-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Progmod2 - Error Ticketing:war exploded" />
+    </root>
+  </artifact>
+</component>
