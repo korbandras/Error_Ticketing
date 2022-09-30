@@ -7,6 +7,7 @@
     <groupId>com.example</groupId>
     <artifactId>_Progmod2-Error_Ticketing</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <name>Progmod2 - Error Ticketing</name>
     <packaging>war</packaging>
 
@@ -28,18 +29,6 @@
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
             <version>20210307</version>
-        </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>${junit.version}</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-engine</artifactId>
-            <version>${junit.version}</version>
-            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>jakarta.platform</groupId>

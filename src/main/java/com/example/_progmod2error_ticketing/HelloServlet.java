@@ -1,7 +1,6 @@
 package com.example._progmod2error_ticketing;
 
 import java.io.*;
-
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
